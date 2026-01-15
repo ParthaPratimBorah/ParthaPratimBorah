@@ -2,6 +2,16 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
+
+###
+
+<p align="left">
+  Hello-World !!!<br><br>
+  $ echo "Code. Build. Repeat."<br>
+  $ whoami → developer
+</p>
+
+
 ###
 
 <div align="center">
@@ -13,14 +23,6 @@
     />
   </a>
 </div>
-
-###
-
-<p align="left">
-  Hello-World !!!<br><br>
-  $ echo "Code. Build. Repeat."<br>
-  $ whoami → developer
-</p>
 
 ###
 
@@ -98,15 +100,6 @@
 ###
 
 <div align="center">
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/ParthaPratimBorah/ParthaPratimBorah/output/pacman-contribution-graph.svg"
-  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/partha-pratim-borah-97a148348/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -121,7 +114,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ParthaPratimBorah.ParthaPratimBorah&left_color=black&right_color=blue" />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/ParthaPratimBorah/ParthaPratimBorah/output/pacman-contribution-graph.svg"
+  />
 </div>
 
 ###
