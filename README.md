@@ -116,7 +116,7 @@
 <div align="center">
   <img
     alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/ParthaPratimBorah/ParthaPratimBorah/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/ParthaPratimBorah/ParthaPratimBorah/output/pacman-contribution-graph-dark.svg"
   />
 </div>
 
