@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <a href="https://parthapratimborah-portfolio.vercel.app/" target="_blank">
+  <a href="https://partha-pratim-borah-portfolio.vercel.app/" target="_blank">
     <img
       src="https://img.shields.io/badge/Visit%20My%20Website-FFFFFF?style=for-the-badge&logo=google-chrome&logoColor=000000"
       alt="Visit My Website"
